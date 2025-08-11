@@ -1,0 +1,53 @@
+Phishing Email Analysis – Cyber Security Internship Task 2
+
+Objective:
+To identify phishing characteristics in a suspicious email and demonstrate awareness of email-based threats.
+
+Tools Used:
+- Email Header Analyzer (Google Message Header Analyzer)
+- WHOIS Lookup
+- VirusTotal / CheckPhish
+
+Sample Email (Fake for Training):
+From: PayPal Security <support@paypaI.com>
+To: you@example.com
+Subject: Urgent! Your Account Has Been Suspended
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account.
+To protect your funds, we have temporarily suspended your account.
+
+Please verify your identity immediately to avoid permanent closure:
+https://paypal-verification-secure-login.com
+
+Failure to verify within 24 hours will result in permanent account termination.
+
+Thank you for your cooperation,
+PayPal Security Team
+
+---
+
+Analysis Steps:
+1. Checked Sender’s Email Address
+   - Domain 'paypaI.com' uses capital 'I' instead of lowercase 'l' – spoofing technique.
+2. Reviewed Email Headers
+   - Sender IP geolocation did not match PayPal’s servers.
+3. Inspected Links
+   - Link leads to a fake PayPal domain.
+4. Examined Email Content
+   - Urgent tone and threat of closure.
+   - Generic greeting.
+5. Grammar/Formatting Issues
+   - Inconsistent capitalization.
+
+Phishing Indicators:
+- Email spoofing
+- Urgent/threat language
+- Suspicious links
+- Generic greeting
+- Domain mismatch
+- Unusual IP location
+
+Conclusion:
+The email is a phishing attempt. Do not click links, download attachments, or reply. Report and delete immediately.
