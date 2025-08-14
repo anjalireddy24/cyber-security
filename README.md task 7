@@ -31,4 +31,7 @@
 - Attackers may hijack or buy legitimate extensions and push malicious updates to users.
 - These updates can silently activate harmful features.
 
-uture audits or teaching? I can mock one up for you.
+9.  Sideloading Risks
+- Extensions installed from unofficial sources (sideloaded) bypass security checks.
+- These are more likely to be spoofed or bundled with malware.
+
