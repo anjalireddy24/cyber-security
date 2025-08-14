@@ -1,1 +1,34 @@
+ How Malicious Browser Extensions Harm Users
 
+1.  Data Theft
+- Extensions can access sensitive data like login credentials, financial info, and personal files.
+- In corporate settings, this includes intellectual property and client data.
+
+2.  Credential Harvesting
+- Some extensions capture usernames and passwords as users type them into websites.
+- These credentials can be used for unauthorized access to systems, emails, or cloud services.
+
+3.  Keylogging & Corporate Espionage
+- Extensions with keylogging capabilities can record every keystroke.
+- This includes emails, chat messages, and internal documents—valuable for industrial espionage.
+
+4.  Malware Deployment
+- Malicious extensions can act as delivery vehicles for ransomware, spyware, or remote access trojans (RATs).
+- Once installed, they can compromise entire IT infrastructures.
+
+5.  Data Manipulation
+- They can alter webpage content—like modifying financial reports or interfering with online transactions.
+
+6.  Network Exploitation
+- Some extensions exploit network vulnerabilities to spread malware across systems.
+- They may create backdoors or escalate privileges within an organization.
+
+7.  User Tracking & Profiling
+- Extensions can monitor browsing habits, search history, and online behavior.
+- This data is used for targeted phishing or building detailed user profiles.
+
+8.  Hijacking Legitimate Extensions
+- Attackers may hijack or buy legitimate extensions and push malicious updates to users.
+- These updates can silently activate harmful features.
+
+uture audits or teaching? I can mock one up for you.
